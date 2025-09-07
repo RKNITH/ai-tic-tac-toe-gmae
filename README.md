@@ -130,13 +130,7 @@ The backend sends the board state to Gemini with a carefully crafted prompt:
 * AI chooses logically, not randomly.
 * AI plays like a **human competitor** without requiring pre-trained datasets.
 
----
 
-## 📸 Screenshots
-
-> *(Add your screenshots here once you run the project — game board, AI move, win/draw screens, etc.)*
-
----
 
 ## 🔮 Future Improvements
 
@@ -165,7 +159,4 @@ Built with ❤️ by [Raviranjan](https://github.com/RKNITH)
 
 ```
 
----
 
-👉 Do you want me to also **write the backend `index.js` & `prompt.js` files in final clean form** (so your AI never gets stuck on center index issue)?
-```
